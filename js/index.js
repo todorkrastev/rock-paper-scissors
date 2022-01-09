@@ -44,7 +44,7 @@ const referee = (userHand, cpHand) => {
     } else if (userHand == 'rock' && cpHand == 'rock') {
         setDecision('It\'s a tie!');
     } else if (userHand == 'scissors' && cpHand == 'scissors') {
-        setDecisdocument.querySelector('.score h1').innerText = score;;
+        setDecision('It\'s a tie!');
     } else if (userHand == 'scissors' && cpHand == 'rock') {
         setDecision('YOU LOSE!');
     } else if (userHand == 'scissors' && cpHand == 'paper') {
