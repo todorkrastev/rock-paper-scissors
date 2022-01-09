@@ -1,4 +1,4 @@
-<h1 align="center">Rock 👊 Paper ✋ Scissors ✌️<h1>
+<h1 align="center">Rock ✊ Paper ✋ Scissors ✌️<h1>
 <br>
   
 ![Rock Paper Scissors](https://media.giphy.com/media/GSDWRU36yMQbcPXY5J/giphy.gif)
