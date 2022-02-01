@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <p>While studying JavaScript, I could feel my ego starting to push me more and more to show off my new knowledge I have gained so far. I told myself, okay, but with what? I wanted it to be something simple and at the same time interesting for the users, in my case, my girlfriend. If I could get her attention for more than a minute, that meant the idea was worth committing to my GitHub profile. That's when I decided that I would program a game again. I'm generally not a gamer, but games turn out to be а powerful tool and is the easiest way to keep users' attention.
-In my childhood numerous arguments were resolved through the game Rock-Paper-Scissors as it was always played - 2 out of 3. And so, the idea for my second game was born.
+In my childhood numerous arguments were resolved through the game Rock-Paper-Scissors which was always played 2 out of 3. And so, the idea for my second game was born.
 <br/>
 <br/>
 Clone the repository, open with Live Server and let this game take you back to the years when we used to play in the streets from morning till night or in my case, while my mother screamed my name out the window
