@@ -5,7 +5,7 @@
 In my childhood numerous arguments were resolved through the game Rock-Paper-Scissors which was always played 2 out of 3. And so, the idea for my second game was born.
 <br/>
 <br/>
-Clone the repository, open with Live Server and let this game take you back to the years when we used to play in the streets from morning till night or in my case, while my mother screamed my name out the window
+Clone the repository, open with Live Server and let this game take you back to the years when we used to play in the streets from morning till night or in my case, while my mother screamed my name out the window...
 </p>
 <br/>
 <br/>
